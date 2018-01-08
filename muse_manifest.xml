@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="glowloans.com" resolutions="1x" timestamp="1515424802061">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="glowloans.com" resolutions="1x" timestamp="1515425023244">
   <folder name="css">
     <file name="site_global.css" crc="3843977379"/>
     <file name="master_a-master.css" crc="3903908157" ref="fast-cash:personal-loans:contact:debt-relief:index:privacy-policy:holiday-loans"/>
@@ -6,7 +6,7 @@
     <file name="fast-cash.css" crc="3871983289" ref="fast-cash"/>
     <file name="nomq_fast-cash.css" crc="4093198943" ref="fast-cash"/>
     <file name="iefonts_fast-cash.css" crc="285942772" ref="fast-cash"/>
-    <file name="personal-loans.css" crc="206157746" ref="personal-loans"/>
+    <file name="personal-loans.css" crc="3936616157" ref="personal-loans"/>
     <file name="nomq_personal-loans.css" crc="4163736802" ref="personal-loans"/>
     <file name="iefonts_personal-loans.css" crc="285942772" ref="personal-loans"/>
     <file name="contact.css" crc="3771641873" ref="contact"/>
@@ -48,7 +48,7 @@
     <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="holiday-loans:fast-cash"/>
   </folder>
   <folder name="images">
-    <file name="arrowmenudown.png" crc="262559161" ref="privacy-policy">
+    <file name="arrowmenudown.png" crc="262559161" ref="privacy-policy:personal-loans">
       <caption webpage="personal-loans" alt=""/>
       <caption webpage="holiday-loans" alt=""/>
       <caption webpage="fast-cash" alt=""/>
@@ -72,7 +72,7 @@
       <caption webpage="privacy-policy" alt=""/>
     </file>
     <file name="white_logo_transparent_background-u13944.png" crc="4022734747" ref="privacy-policy:contact:personal-loans:index:holiday-loans:fast-cash:debt-relief"/>
-    <file name="menu (2).png" crc="167558204" ref="privacy-policy">
+    <file name="menu (2).png" crc="167558204" ref="privacy-policy:personal-loans">
       <caption webpage="personal-loans" alt=""/>
       <caption webpage="personal-loans" alt=""/>
       <caption webpage="personal-loans" alt=""/>
@@ -86,7 +86,7 @@
       <caption webpage="privacy-policy" alt=""/>
       <caption webpage="privacy-policy" alt=""/>
     </file>
-    <file name="arrowmenuright.png" crc="41086373" ref="privacy-policy">
+    <file name="arrowmenuright.png" crc="41086373" ref="privacy-policy:personal-loans">
       <caption webpage="personal-loans" alt=""/>
       <caption webpage="holiday-loans" alt=""/>
       <caption webpage="fast-cash" alt=""/>
@@ -154,7 +154,7 @@
   </folder>
   <file name="privacy-policy.html" crc="37773506" seo="true" mt="1515424744287" redirect="true"/>
   <file name="contact.html" crc="3962071886" seo="true" mt="1515424744287" redirect="true"/>
-  <file name="personal-loans.html" crc="288099188" seo="true" mt="1515424744287" redirect="true"/>
+  <file name="personal-loans.html" crc="3928480730" seo="true" mt="1515425004801" redirect="true"/>
   <file name="index.html" crc="3903128456" seo="true" mt="1515424744287" redirect="true"/>
   <file name="holiday-loans.html" crc="34433939" seo="true" mt="1515424744287" redirect="true"/>
   <file name="fast-cash.html" crc="191559847" seo="true" mt="1515424744287" redirect="true"/>
