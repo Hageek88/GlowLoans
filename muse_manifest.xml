@@ -1,28 +1,28 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="glowloans.com" resolutions="1x" timestamp="1515698475147">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="glowloans.com" resolutions="1x" timestamp="1515719053700">
   <folder name="css">
     <file name="site_global.css" crc="3843977379"/>
-    <file name="master_a-master.css" crc="193212487" ref="fast-cash:personal-loans:contact:debt-relief:index:privacy-policy:holiday-loans"/>
+    <file name="master_a-master.css" crc="3761605998" ref="fast-cash:personal-loans:contact:debt-relief:index:privacy-policy:holiday-loans"/>
     <file name="nomq_preview_master_a-master.css" crc="3912250107" ref="fast-cash:personal-loans:contact:debt-relief:index:privacy-policy:holiday-loans"/>
-    <file name="fast-cash.css" crc="70695129" ref="fast-cash"/>
-    <file name="nomq_fast-cash.css" crc="4274439075" ref="fast-cash"/>
+    <file name="fast-cash.css" crc="195736094" ref="fast-cash"/>
+    <file name="nomq_fast-cash.css" crc="4272963300" ref="fast-cash"/>
     <file name="iefonts_fast-cash.css" crc="285942772" ref="fast-cash"/>
-    <file name="personal-loans.css" crc="4064346505" ref="personal-loans"/>
-    <file name="nomq_personal-loans.css" crc="47373323" ref="personal-loans"/>
+    <file name="personal-loans.css" crc="126323879" ref="personal-loans"/>
+    <file name="nomq_personal-loans.css" crc="316323981" ref="personal-loans"/>
     <file name="iefonts_personal-loans.css" crc="285942772" ref="personal-loans"/>
-    <file name="contact.css" crc="344759434" ref="contact"/>
-    <file name="nomq_contact.css" crc="4204665014" ref="contact"/>
+    <file name="contact.css" crc="181958417" ref="contact"/>
+    <file name="nomq_contact.css" crc="163038407" ref="contact"/>
     <file name="iefonts_contact.css" crc="285942772" ref="contact"/>
-    <file name="debt-relief.css" crc="3880718439" ref="debt-relief"/>
-    <file name="nomq_debt-relief.css" crc="3871918559" ref="debt-relief"/>
+    <file name="debt-relief.css" crc="473608180" ref="debt-relief"/>
+    <file name="nomq_debt-relief.css" crc="4139835049" ref="debt-relief"/>
     <file name="iefonts_debt-relief.css" crc="285942772" ref="debt-relief"/>
-    <file name="index.css" crc="455193996" ref="index"/>
-    <file name="nomq_index.css" crc="384501609" ref="index"/>
+    <file name="index.css" crc="3906517029" ref="index"/>
+    <file name="nomq_index.css" crc="3965596540" ref="index"/>
     <file name="iefonts_index.css" crc="285942772" ref="index"/>
-    <file name="privacy-policy.css" crc="3903201825" ref="privacy-policy"/>
-    <file name="nomq_privacy-policy.css" crc="3804087324" ref="privacy-policy"/>
+    <file name="privacy-policy.css" crc="3790991899" ref="privacy-policy"/>
+    <file name="nomq_privacy-policy.css" crc="4713822" ref="privacy-policy"/>
     <file name="iefonts_privacy-policy.css" crc="285942772" ref="privacy-policy"/>
-    <file name="holiday-loans.css" crc="278235473" ref="holiday-loans"/>
-    <file name="nomq_holiday-loans.css" crc="472686253" ref="holiday-loans"/>
+    <file name="holiday-loans.css" crc="4023340922" ref="holiday-loans"/>
+    <file name="nomq_holiday-loans.css" crc="370577873" ref="holiday-loans"/>
     <file name="iefonts_holiday-loans.css" crc="285942772" ref="holiday-loans"/>
   </folder>
   <folder name="scripts">
@@ -48,42 +48,42 @@
     <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="holiday-loans:fast-cash"/>
   </folder>
   <folder name="images">
-    <file name="arrowmenudown.png" crc="262559161" ref="privacy-policy:fast-cash">
+    <file name="arrowmenudown.png" crc="262559161" ref="privacy-policy">
+      <caption webpage="fast-cash" alt=""/>
+      <caption webpage="fast-cash" alt=""/>
+      <caption webpage="privacy-policy" alt=""/>
+      <caption webpage="privacy-policy" alt=""/>
       <caption webpage="personal-loans" alt=""/>
-      <caption webpage="fast-cash" alt=""/>
-      <caption webpage="fast-cash" alt=""/>
-      <caption webpage="privacy-policy" alt=""/>
-      <caption webpage="privacy-policy" alt=""/>
       <caption webpage="holiday-loans" alt=""/>
     </file>
     <file name="white_logo_transparent_background-u14208.png" crc="102293324" ref="privacy-policy:contact:personal-loans:index:holiday-loans:fast-cash:debt-relief"/>
     <file name="dark_wall.jpg" crc="4145514674" ref="privacy-policy:contact:personal-loans:index:holiday-loans:fast-cash:debt-relief">
-      <caption webpage="personal-loans" alt=""/>
-      <caption webpage="personal-loans" alt=""/>
+      <caption webpage="privacy-policy" alt=""/>
+      <caption webpage="privacy-policy" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
-      <caption webpage="debt-relief" alt=""/>
-      <caption webpage="debt-relief" alt=""/>
+      <caption webpage="holiday-loans" alt=""/>
+      <caption webpage="holiday-loans" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="fast-cash" alt=""/>
       <caption webpage="fast-cash" alt=""/>
-      <caption webpage="privacy-policy" alt=""/>
-      <caption webpage="privacy-policy" alt=""/>
-      <caption webpage="holiday-loans" alt=""/>
-      <caption webpage="holiday-loans" alt=""/>
+      <caption webpage="personal-loans" alt=""/>
+      <caption webpage="personal-loans" alt=""/>
+      <caption webpage="debt-relief" alt=""/>
+      <caption webpage="debt-relief" alt=""/>
     </file>
     <file name="white_logo_transparent_background-u13944.png" crc="4022734747" ref="privacy-policy:contact:personal-loans:index:holiday-loans:fast-cash:debt-relief"/>
-    <file name="menu (2).png" crc="167558204" ref="privacy-policy:fast-cash">
-      <caption webpage="personal-loans" alt=""/>
-      <caption webpage="personal-loans" alt=""/>
-      <caption webpage="personal-loans" alt=""/>
+    <file name="menu (2).png" crc="167558204" ref="privacy-policy">
       <caption webpage="fast-cash" alt=""/>
       <caption webpage="fast-cash" alt=""/>
       <caption webpage="fast-cash" alt=""/>
       <caption webpage="privacy-policy" alt=""/>
       <caption webpage="privacy-policy" alt=""/>
       <caption webpage="privacy-policy" alt=""/>
+      <caption webpage="personal-loans" alt=""/>
+      <caption webpage="personal-loans" alt=""/>
+      <caption webpage="personal-loans" alt=""/>
       <caption webpage="holiday-loans" alt=""/>
       <caption webpage="holiday-loans" alt=""/>
       <caption webpage="holiday-loans" alt=""/>
@@ -148,11 +148,11 @@
     <file name="cash-advance-page-fr.png" crc="3787995337" ref="fast-cash"/>
     <file name="cash-advance-page-fr2.png" crc="222875305" ref="fast-cash"/>
   </folder>
-  <file name="privacy-policy.html" crc="4286081552" seo="true" mt="1515639629261" redirect="true"/>
-  <file name="contact.html" crc="4177246439" seo="true" mt="1515639629261" redirect="true"/>
-  <file name="personal-loans.html" crc="3972228724" seo="true" mt="1515639742120" redirect="true"/>
-  <file name="index.html" crc="503550856" seo="true" mt="1515639629261" redirect="true"/>
-  <file name="holiday-loans.html" crc="4158201081" seo="true" mt="1515639629261" redirect="true"/>
-  <file name="fast-cash.html" crc="4254904116" seo="true" mt="1515697928199" redirect="true"/>
-  <file name="debt-relief.html" crc="116420168" seo="true" mt="1515639629261" redirect="true"/>
+  <file name="privacy-policy.html" crc="130704790" seo="true" mt="1515718889851" redirect="true"/>
+  <file name="contact.html" crc="4019672188" seo="true" mt="1515718889851" redirect="true"/>
+  <file name="personal-loans.html" crc="4042413667" seo="true" mt="1515718889851" redirect="true"/>
+  <file name="index.html" crc="525415920" seo="true" mt="1515718889851" redirect="true"/>
+  <file name="holiday-loans.html" crc="3780380496" seo="true" mt="1515718889851" redirect="true"/>
+  <file name="fast-cash.html" crc="105664953" seo="true" mt="1515718889851" redirect="true"/>
+  <file name="debt-relief.html" crc="188737235" seo="true" mt="1515718889851" redirect="true"/>
 </manifest>
