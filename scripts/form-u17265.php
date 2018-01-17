@@ -27,8 +27,8 @@ $form = array(
 		'unknown_method' => 'Unknown server request method'
 	),
 	'email' => array(
-		'from' => 'erikhageman88@gmail.com',
-		'to' => 'erikhageman88@gmail.com'
+		'from' => 'support@glowloans.com',
+		'to' => 'support@glowloans.com'
 	),
 	'fields' => array(
 		'custom_U17272' => array(
