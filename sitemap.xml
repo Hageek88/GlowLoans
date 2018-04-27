@@ -1,51 +1,81 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>http://glowloans.com/index.html</loc>
-    <lastmod>2018-02-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://glowloans.com/images/glow%20loans%20bulb%20-crop-u4879.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://glowloans.com/images/glow%20loans%20bulb%20163x218.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://glowloans.com/privacy-policy.html</loc>
-    <lastmod>2018-02-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://glowloans.com/personal-loans.html</loc>
-    <lastmod>2018-02-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://glowloans.com/images/check.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://glowloans.com/contact.html</loc>
-    <lastmod>2018-02-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://glowloans.com/images/email.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://glowloans.com/holiday-loans.html</loc>
-    <lastmod>2018-02-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://glowloans.com/fast-cash.html</loc>
-    <lastmod>2018-02-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>http://www.glowloans.com/</loc>
+  <lastmod>2018-04-27T12:30:35+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://www.glowloans.com/index.html</loc>
+  <lastmod>2018-04-27T12:30:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.glowloans.com/personal-loans.html</loc>
+  <lastmod>2018-04-27T12:30:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.glowloans.com/holiday-loans.html</loc>
+  <lastmod>2018-04-27T12:30:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.glowloans.com/fast-cash.html</loc>
+  <lastmod>2018-04-27T12:30:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.glowloans.com/contact.html</loc>
+  <lastmod>2018-04-27T12:30:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.glowloans.com/privacy-policy.html</loc>
+  <lastmod>2018-04-27T12:30:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.glowloans.com/amp/</loc>
+  <lastmod>2018-04-27T12:30:35+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://www.glowloans.com/amp/index.html</loc>
+  <lastmod>2018-04-27T12:30:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.glowloans.com/amp/personal-loans.html</loc>
+  <lastmod>2018-04-27T12:30:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.glowloans.com/amp/holiday-loans.html</loc>
+  <lastmod>2018-04-27T12:30:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.glowloans.com/amp/fast-cash.html</loc>
+  <lastmod>2018-04-27T12:30:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.glowloans.com/amp/contact.html</loc>
+  <lastmod>2018-04-27T12:30:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.glowloans.com/amp/privacy-policy.html</loc>
+  <lastmod>2018-04-27T12:30:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
 </urlset>
